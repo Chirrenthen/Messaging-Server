@@ -1,13 +1,13 @@
 #include <WiFi.h>
 #include <WebServer.h>
 
-const char* ssid = "Ramesh_Gopal";
-const char* password = "rameshG@1284";
+const char* ssid = "YOUR_SSID";
+const char* password = "YOUR_PASSWORD";
 
 WebServer server1(80);  // First server on port 80
 WebServer server2(81);  // Second server on port 81
 String chatHistory = "";
-const char* loginPassword = "deepseek123";
+const char* loginPassword = "SET_PASSWORD";
 
 bool isLoggedIn1 = false;  // Login state for server1
 bool isLoggedIn2 = false;  // Login state for server2

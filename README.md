@@ -1,4 +1,4 @@
-# Messaging-Server
+# PortSync | [Patreon Article](https://www.patreon.com/posts/portsync-esp32-130918146)
 
 ## Key elements of the project:
 
